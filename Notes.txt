@@ -1,0 +1,4 @@
+1. Pydantic has data validation and parsing capabilities where TypedDict is just a type hinting tool.
+2. Pydantic has a builtin Email validator 
+3. JSON output parser does not enforce schema
+4. Pydantic output parser does can enforce predifined schema
